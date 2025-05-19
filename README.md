@@ -1,4 +1,3 @@
-<img align="center" alt="Coding" width="1000" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZARbRL3DgA8QYoo9ZI5zDD1SIodbujF2hzw&s">
 <h1 align="center">Hi 👋, I'm Amulya N</h1>
 <h3 align="center">A passionate Computer Science Engineer pursuing Postgraduate program in Data Science & Analytics from Karnataka, India</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_zNk2PJ2fgU0JKznUybt4AvyBbf-Nvtzjvg&s">

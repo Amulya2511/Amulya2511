@@ -2,13 +2,13 @@
 <h3 align="center">A passionate Computer Science Engineer pursuing Postgraduate program in Data Science & Analytics from Karnataka, India</h3>
 <img align="right" alt="Coding" width="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_zNk2PJ2fgU0JKznUybt4AvyBbf-Nvtzjvg&s">
 
-- 🔭 I’m currently working on [Sherlock project](https://github.com/Jeffrin-Webster/sherlockbackend)
+- 🔭 Currently working on [Sherlock project](https://github.com/Jeffrin-Webster/sherlockbackend)
 
-- 🌱 I’m currently learning **Postgraduate program in Data Science & Analytics**
+- 🌱 Currently learning **Postgraduate program in Data Science & Analytics**
 
-- 📝 I regularly write articles on [https://medium.com/@amulya25](https://medium.com/@amulya25)
+- 📝 Regularly write blogs on [https://medium.com/@amulya25](https://medium.com/@amulya25)
 
-- 📫 How to reach me **namulya53@gmail.com**
+- 📫 To reach me **namulya53@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

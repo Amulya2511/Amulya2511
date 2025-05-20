@@ -6,6 +6,8 @@
 
 - 🌱 Learning **Postgraduate program in Data Science & Analytics**
 
+- - 👨‍💻 Personal website [https://namulya53.wixsite.com/my-site-1](https://namulya53.wixsite.com/my-site-1)
+
 - 📝 Regularly write blogs on  [https://medium.com/@amulya25](https://medium.com/@amulya25)
 
 - 📫 To reach me  **namulya53@gmail.com**

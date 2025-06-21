@@ -2,11 +2,9 @@
 <h3 align="center">A passionate Computer Science Engineer</h3>
 <img align="right" alt="Coding" width="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_zNk2PJ2fgU0JKznUybt4AvyBbf-Nvtzjvg&s">
 
-- 🔭 Currently working on  [Sherlock project](https://github.com/Jeffrin-Webster/sherlockbackend)
-
 - 🌱 Learning **Postgraduate program in Data Science & Analytics**
 
-- 👨‍💻 Personal website [https://namulya53.wixsite.com/my-site-1](https://namulya53.wixsite.com/my-site-1)
+- 👨‍💻 Personal website https://namulya53.wixsite.com/mysite
 
 - 📝 Regularly write blogs on  [https://medium.com/@amulya25](https://medium.com/@amulya25)
 
